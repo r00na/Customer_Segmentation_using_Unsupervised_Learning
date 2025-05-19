@@ -30,7 +30,6 @@ This project performs customer segmentation based on purchasing behavior, demogr
 *  Used the Elbow Method to find the optimal number of clusters
 *  Clustered customers into groups based on similarities
 
----
 
 #### **📌 5. Results & Insights**
 
