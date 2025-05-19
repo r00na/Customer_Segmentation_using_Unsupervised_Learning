@@ -24,7 +24,7 @@ This project performs customer segmentation based on purchasing behavior, demogr
 *  Scaled numerical features
 *  Created new features such as total spend, average spend, and customer tenure
 
-#### ** 4. Modeling - KMeans Clustering**
+####  4. Modeling - KMeans Clustering
 
 *  Applied KMeans clustering algorithm
 *  Used the Elbow Method to find the optimal number of clusters
