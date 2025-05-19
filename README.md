@@ -5,11 +5,11 @@
 
 This project performs customer segmentation based on purchasing behavior, demographics, and lifestyle features. The segmentation helps businesses develop targeted marketing strategies.
 
-#### ** 1. Data Preprocessing**
+####  1. Data Preprocessing
 
-*  Loaded dataset `customer_segmentation.csv`
+*  Loaded dataset customer_segmentation.csv
 *  Removed null values
-*  Converted `Dt_Customer` column to datetime
+*  Converted Dt_Customer column to datetime
 *  Calculated how long the customer has been with the company
 
 
