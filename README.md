@@ -1,5 +1,5 @@
 
-### ** 🛍️ Customer Segmentation using Unsupervised Learning**
+### 🛍️ Customer Segmentation using Unsupervised Learning
 
 #### **📌 Overview**
 
